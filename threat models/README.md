@@ -12,4 +12,6 @@ Threat modeling is an approach to identifying potential security risks and vulne
 5.  Microservices security: Microservices are a way to build applications as a collection of small, independent services. Threat modeling can be used to identify potential security risks in microservices architectures, such as insecure API gateways, weak authentication and authorization, or unsecured communication between services.
     
 
-Overall, threat modeling can help DevOps teams to build security into every aspect of the development process, from application design to deployment and operations. By identifying potential security risks early on, teams can reduce the likelihood of security breaches and ensure that their applications and systems are secure and reliable.
+Threat modeling can help DevOps teams to build security into every aspect of the development process, from application design to deployment and operations. By identifying potential security risks early on, teams can reduce the likelihood of security breaches and ensure that their applications and systems are secure and reliable.
+
+Tool used: https://threagile.io/
